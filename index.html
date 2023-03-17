@@ -12,13 +12,14 @@
       href="./assets/images/favicon-32x32.png"
     />
     <link rel="stylesheet" href="style.css" />
+    <script src="./main.js" defer></script>
 
     <title>Frontend Mentor | News homepage</title>
   </head>
 
   <body>
     <main>
-      <nav>
+      <nav class="desktop-nav">
         <span class="logo">W.</span>
         <ul>
           <li>
@@ -43,6 +44,35 @@
           alt="menu icon"
         />
       </nav>
+      <section class="mobile-menu">
+        <div class="overlay"></div>
+        <div class="mobile-nav">
+          <img
+            class="close-icon"
+            src="./assets/images/icon-menu-close.svg"
+            alt="close icon"
+          />
+          <nav>
+            <ul>
+              <li>
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <a href="#">New</a>
+              </li>
+              <li>
+                <a href="#">Popular</a>
+              </li>
+              <li>
+                <a href="#">Trending</a>
+              </li>
+              <li>
+                <a href="#">Categories</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </section>
       <section class="left">
         <img
           class="desktop-img"
