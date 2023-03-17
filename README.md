@@ -22,8 +22,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/HassanMak29/frontend-mentor-news-homepage)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-news-homepage-hassan.netlify.app/)
 
 ## My process
 
