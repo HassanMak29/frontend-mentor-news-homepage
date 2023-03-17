@@ -19,6 +19,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ![](./screenshot.jpg)
 ![](./screenshot-mobile.jpg)
+![](./screenshot-mobile-menu.jpg)
 
 ### Links
 
