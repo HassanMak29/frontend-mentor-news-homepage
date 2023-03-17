@@ -23,8 +23,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HassanMak29/frontend-mentor-news-homepage)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-news-homepage-hassan.netlify.app/)
+- Solution URL: [solution URL](https://github.com/HassanMak29/frontend-mentor-news-homepage)
+- Live Site URL: [live site URL](https://frontend-mentor-news-homepage-hassan.netlify.app/)
 
 ## My process
 
@@ -38,7 +38,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### What I learned
 
-I learned using CSS Grid
+I learned how to use CSS Grid
 
 ## Author
 
